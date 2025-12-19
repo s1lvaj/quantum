@@ -2,7 +2,9 @@
 
 Qiskit is IBM’s opensource Python SDK for building, simulating, and running quantum circuits on both local simulators and real IBM quantum hardware. It provides high-level tools for circuit design, execution, and analysis, making quantum computing accessible for research, education, and experimentation.
 
-In this repository, we built a custom interface to communicate with IBM's quantum computers. The project's simplicity, together with some documentation, mainly serves as a means to fascinate and give motivation to the reader to explore qiskit's capabilities. While quantum computing, at the time of writing, is still considered a "mystery" by many, there are several tools available that allow anyone to explore this world, even if they know nothing of quantum mechanics, or even of general physics. So here we present a very minimalist code to show how any person can start this journey to create interesting projects.
+In this repository, we built a custom interface to communicate with IBM's quantum computers. The project's simplicity, together with some documentation, mainly serves as a means to fascinate and give motivation to the reader to explore qiskit's capabilities.
+
+While quantum computing, at the time of writing, is still considered a "mystery" by many, there are several tools available that allow anyone to explore this world, even if they know nothing of quantum mechanics, or even of general physics. So here we present a very minimalist code to show how any person can start this journey to create interesting projects.
 
 # Quantum Tunneling Simulation
 
