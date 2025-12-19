@@ -1,0 +1,5 @@
+matplotlib
+PyQt5
+qiskit
+qiskit_ibm_runtime
+numpy
